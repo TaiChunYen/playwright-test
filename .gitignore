@@ -2,3 +2,4 @@ node_modules/
 storageState.json
 test-results/
 .env
+playwright-report
